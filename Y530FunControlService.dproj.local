@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.906,D:\Crossgroup\CrossStart\FastMM\FastMM4.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,D:\Crossgroup\CrossStart\CrossStartService\CrossStartService.dproj=D:\Crossgroup\Новая папка\Y530FunControlService.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,D:\Crossgroup\CrossStart\CrossStartService\main.pas=D:\Crossgroup\Новая папка\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,D:\Crossgroup\CrossStart\CrossStartService\main.dfm=D:\Crossgroup\Новая папка\main.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
