@@ -59,5 +59,12 @@ ATTENTION! The content of .bat files is not checked automatically, so it is bett
 CoreTemp does not need to be started, it will start automatically, also as this service.
 
 Enjoy using.
+
+# A VERY IMPORTANT ADDITION! 
+
+If you use the utility and you have two systems on your laptop (win + hackintosh / linux), you need to disable hibernation, because. when the hibernation mode is enabled, the service does not see the shutdown event and can leave the laptop in the mode of the disabled cooling system. You will boot into another system with no cooling at all!
+
+To disable hibernation, at the command prompt, type powercfg -h off and press Enter.
+
 # P.S. 
 Additions and improvements are welcome.
