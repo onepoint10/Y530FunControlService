@@ -33,6 +33,9 @@ ATTENTION, THE DATA PATH AND NAMES (everything in paragraphs 2,3,4) MUST MATCH W
 7. In the "service" package, right-click on install.bat and run with administrator rights. You should see a window saying that everything was successfully installed.
 There is now a "FanControlService" service in Windows Services. That will do magic.
 
+# How it works 
+When the CPU temperature drops below 45 (coldtemp) and lasts longer than 6 seconds (delaytime), the coolers should stall, and now turn on only when temp will reach 70 (heattemp). As you understand, the settings can be changed, and the numbers will be different, but the principle will not change. Now when browsing, the laptop becomes quiet. When you start a demanding game, the coolers will automatically start working and again howl at all they noisy power.
+
 # Settings description 
 There are settings in the setting.ini file:
 ```
